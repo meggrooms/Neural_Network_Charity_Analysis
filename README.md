@@ -33,20 +33,19 @@ AFFILIATION CLASSIFICATION
 IS_SUCCESSFUL, showing that the charity funding was effectively used 
 <BR>
 <BR>
-Variables Removed: EIN and NAME were determined to be of no use as they will not affect the accuracy of the model
+
+<strong>Variables Removed:</strong> EIN and NAME were determined to be of no use as they will not affect the accuracy of the model
 <BR>
 <BR>
 
   
 ### Compiling, Training, and Evaluating the Model
 
-Nuerons, Layers, and activation functions selected for the neural network model & why
-<BR>
-I used 3 hidden layers as following:
+Nuerons, Layers, and activation functions selected for the neural network model to attempt accuracy optimization
 <BR>
 <BR>
 Layer 1: 60 neurons, activation: tanh
- 
+<BR> 
 Layer 2: 60 neurons, activation: tanh
 <BR>
 Layer 3: 60 neurons, activation: relu
