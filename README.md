@@ -12,7 +12,7 @@ Alphabet Soup Charity Funding
 Variables considered the targets for the model</ins>
 <BR>
 <BR>
-<ins>Variables considered to be the features for the model
+Variables considered to be the features for the model
 <BR>
 <Br>
 Variables removed from input data as they are neither targets nor features
