@@ -23,8 +23,26 @@ Alphabet Soup Charity Funding
 <BR>
 There were 108 import features. I used 3 hidden layers as following:
 <BR>
-Layer 1: 60 
+  
+  
+Layer 1: 60 neurons, activation: tanh
+<BR>  
+Layer 2: 60 neurons, activation: tanh
+<BR>
+Layer 3: 60 neurons, activation: relu
+<BR>
+Output layer activation: sigmoid
+<BR>
+<img src="https://github.com/meggrooms/Neural_Network_Charity_Analysis/blob/main/images/neurons_activation.png">
+<BR>
+<BR>
+  
+
 • Ability to achieve target model performance
+  
+  
+  
+  
 <BR>
 Target performance was 75%, the best I was able to achieve was 73%
 Were you able to achieve the target model performance?
