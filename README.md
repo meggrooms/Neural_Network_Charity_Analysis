@@ -35,13 +35,17 @@ AFFILIATION CLASSIFICATION
 <strong>Target Variable:</strong> 
 IS_SUCCESSFUL, showing that the charity funding was effectively used 
 <BR>
+  
 <strong>Variables Removed:</strong> EIN and NAME were determined to be of no use as they will not affect the accuracy of the model
 <BR>
+  
 <strong>Bucketing/Binning:</strong> Columns with more than 10 unique results <1000 were grouped together
 <BR>
+  
 <strong>One-Hot Encoding:</strong> Categorical information was converted into a format to improve accuracy in machine learning algorithms.
 <BR>
-<strong>Split/test/train:</strong> Data was split, trained, and tested to evaluate how the model performs on new data
+  
+<strong>Split/Test/Train:</strong> Data was split, trained, and tested to evaluate how the model performs on new data
 <BR>
 <BR>
 
