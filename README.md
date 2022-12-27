@@ -35,15 +35,17 @@ Output layer activation: sigmoid
 <BR>
 <img src="https://github.com/meggrooms/Neural_Network_Charity_Analysis/blob/main/images/neurons_activation.png">
 <BR>
-<BR>
-  
 
 • Ability to achieve target model performance
-  
-  
-  
-  
 <BR>
 Target performance was 75%, the best I was able to achieve was 73%
-Were you able to achieve the target model performance?
-What steps did you take to try and increase model performance?
+<BR>
+• Steps taken to try and increase model performance
+<BR>
+Try 1: First layer 110 neurons (relu), second layer 80 neurons(relu), third layer 80 neurons (sigmoid) - 73% accuracy
+<BR>
+Try 2: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid) - 73% accuracy
+<BR>
+Try 3: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid) - 73% accuracy
+<BR>
+Try 4: First layer 110 neurons (tanh), second layer 60 neurons (tanh), third layer 60 neurons (relu) - 73% accuray
