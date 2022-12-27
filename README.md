@@ -69,7 +69,8 @@ Try 2: First layer 110 neurons (tanh), second layer 60 neurons (relu), third lay
   
   
 Try 3: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid), epochs: 50 - 73% accuracy
-<BR>">
+<BR>
+<img src="https://github.com/meggrooms/Neural_Network_Charity_Analysis/blob/main/images/3_attempt.png">
 <BR>
   
   
