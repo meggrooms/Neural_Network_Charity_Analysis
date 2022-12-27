@@ -30,6 +30,7 @@ AFFILIATION CLASSIFICATION
 <BR>SPECIAL_CONSIDERATIONS
 <BR>ASK_AMT
 <BR>
+  
 
 <strong>Target Variable:</strong> 
 IS_SUCCESSFUL, showing that the charity funding was effectively used 
@@ -54,13 +55,17 @@ Layer 3: 60 neurons, activation: relu, epochs: 50
 <img src="https://github.com/meggrooms/Neural_Network_Charity_Analysis/blob/main/images/neurons_activation.png">
 <BR>
 
-<strong>Ability to achieve target model performance</strong>
+  
+
+<strong>Steps taken to try and increase model performance:</strong>
 <BR>
-Target performance was 75%, the best I was able to achieve was 73%
+• Using different activation types
 <BR>
-  <strong>Steps taken to try and increase model performance:</strong>
+• Increasing epochs did not seem to change the result so I continued with 50
 <BR>
-<BR>
+• Changing the amount of neurons and layers did not change the outcome
+<BR><BR>
+  
 
 Try 2: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid), epochs: 50 - 73% accuracy
 <BR>
@@ -79,3 +84,4 @@ Try 4: First layer 110 neurons (tanh), second layer 60 neurons (tanh), third lay
 <BR>
 ### Results
 <BR>
+
