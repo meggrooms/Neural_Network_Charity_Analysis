@@ -42,7 +42,7 @@ IS_SUCCESSFUL, showing that the charity funding was effectively used
 <strong>Bucketing/Binning:</strong> Columns with more than 10 unique results <1000 were grouped together
 <BR>
   
-<strong>One-Hot Encoding:</strong> Categorical information was converted into a format to improve accuracy in machine learning algorithms.
+<strong>One-Hot Encoding:</strong> Categorical information was converted into a format to improve accuracy in machine learning algorithms
 <BR>
   
 <strong>Split/Test/Train:</strong> Data was split, trained, and tested to evaluate how the model performs on new data
@@ -93,6 +93,6 @@ Try 4: First layer 110 neurons (tanh), second layer 60 neurons (tanh), third lay
 <img src="https://github.com/meggrooms/Neural_Network_Charity_Analysis/blob/main/images/4_attempt.png">
 <BR>
 ### Results
-<BR>
+
 I performed 4 tests to evaluate accuracy improvements, however all results came back at 73%. This is below the desired threshold of 75%. As neural networks are not always the answer, more testing must be done using other methods.
 
