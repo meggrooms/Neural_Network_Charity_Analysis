@@ -9,30 +9,29 @@ Alphabet Soup Charity Funding
 
 #### Preprocessing Data
 <BR>
-<ins>Variables considered the targets for the model</ins>
+Variables considered the targets for the model</ins>
 <BR>
 <BR>
-<ins>Variables considered to be the features for the model</ins>
+<ins>Variables considered to be the features for the model
 <BR>
 <Br>
-<ins>Variables removed from input data as they are neither targets nor features</ins>
+Variables removed from input data as they are neither targets nor features
 <BR>
-<BR>
+
   
 #### Compiling, Training, and Evaluating the Model
-<BR>
-<ins>Nuerons, Layers, and activation functions selected for the neural network model & why</ins>
+
+Nuerons, Layers, and activation functions selected for the neural network model & why
 <BR>
 I used 3 hidden layers as following:
 <BR>
 <BR>
 Layer 1: 60 neurons, activation: tanh
-<BR>  
+ 
 Layer 2: 60 neurons, activation: tanh
 <BR>
 Layer 3: 60 neurons, activation: relu
 <BR>
-Output layer activation: sigmoid
 <BR>
 <img src="https://github.com/meggrooms/Neural_Network_Charity_Analysis/blob/main/images/neurons_activation.png">
 <BR>
