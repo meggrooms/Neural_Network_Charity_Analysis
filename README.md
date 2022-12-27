@@ -9,9 +9,10 @@ Alphabet Soup Charity Funding
 
 #### Preprocessing Data
 <BR>
-• Variable(s) considered the target(s) for the model
+  <ins>Variables considered the targets for the model</ins>
 <BR>
-• Variable(s) considered to be the features for the model
+<BR>
+Variable(s) considered to be the features for the model
 <BR>
 • Variables removed from input data as they are neither targets nor features
 <BR>
@@ -36,11 +37,12 @@ Output layer activation: sigmoid
 <img src="https://github.com/meggrooms/Neural_Network_Charity_Analysis/blob/main/images/neurons_activation.png">
 <BR>
 
-• Ability to achieve target model performance
+<strong>Ability to achieve target model performance</strong>
 <BR>
 Target performance was 75%, the best I was able to achieve was 73%
 <BR>
-• Steps taken to try and increase model performance
+Steps taken to try and increase model performance:
+<BR>
 <BR>
 Try 1: First layer 110 neurons (relu), second layer 80 neurons(relu), third layer 80 neurons (sigmoid) - 73% accuracy
 <BR>
