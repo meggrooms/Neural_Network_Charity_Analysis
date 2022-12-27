@@ -1,3 +1,2 @@
 # Neural Network Charity Analysis
-<BR>
-## Alphabet Soup Charity Funding
+Alphabet Soup Charity Funding
