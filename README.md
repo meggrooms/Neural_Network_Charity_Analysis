@@ -18,14 +18,18 @@ I used the following methods for the analysis:
 
 #### Preprocessing Data
 <BR>
-Variables considered the targets for the model:
-<BR>
 
+Features: 
 <BR>
-Variables considered to be the features for the model
 <BR>
-<Br>
-Variables removed from input data as they are neither targets nor features
+APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
+<BR>
+<BR>
+Target Variable: IS_SUCCESSFUL, showing that the charity funding was effectively used 
+<BR>
+<BR>
+Variables Removed: EIN and NAME were determined to be of no use as they will not affect the accuracy of the model
+<BR>
 <BR>
 
   
