@@ -50,3 +50,7 @@ Try 2: First layer 110 neurons (tanh), second layer 60 neurons (relu), third lay
 Try 3: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid) - 73% accuracy
 <BR>
 Try 4: First layer 110 neurons (tanh), second layer 60 neurons (tanh), third layer 60 neurons (relu) - 73% accuray
+<BR>
+<BR>
+### Results
+<BR>
