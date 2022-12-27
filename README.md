@@ -94,4 +94,5 @@ Try 4: First layer 110 neurons (tanh), second layer 60 neurons (tanh), third lay
 <BR>
 ### Results
 <BR>
+I performed 4 tests to evaluate accuracy improvements, however all results came back at 73%. This is below the desired threshold of 75%. As neural networks are not always the answer, more testing must be done using other methods.
 
