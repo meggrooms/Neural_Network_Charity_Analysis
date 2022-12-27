@@ -59,7 +59,7 @@ Layer 3: 60 neurons, activation: relu, epochs: 50
 
 <strong>Steps taken to try and increase model performance:</strong>
 <BR>
-• Using different activation types
+• Using different activation types did not significantly change results, aside from the linear
 <BR>
 • Increasing epochs did not seem to change the result so I continued with 50
 <BR>
