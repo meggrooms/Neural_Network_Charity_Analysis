@@ -44,11 +44,11 @@ IS_SUCCESSFUL, showing that the charity funding was effectively used
 Nuerons, Layers, and activation functions selected for the neural network model to attempt accuracy optimization
 <BR>
 <BR>
-Layer 1: 60 neurons, activation: tanh
+Layer 1: 60 neurons, activation: tanh, epochs: 50
 <BR> 
-Layer 2: 60 neurons, activation: tanh
+Layer 2: 60 neurons, activation: tanh, epochs: 50
 <BR>
-Layer 3: 60 neurons, activation: relu
+Layer 3: 60 neurons, activation: relu, epochs: 50
 <BR>
 <BR>
 <img src="https://github.com/meggrooms/Neural_Network_Charity_Analysis/blob/main/images/neurons_activation.png">
@@ -61,13 +61,13 @@ Target performance was 75%, the best I was able to achieve was 73%
 Steps taken to try and increase model performance:
 <BR>
 <BR>
-Try 1: First layer 110 neurons (relu), second layer 80 neurons(relu), third layer 80 neurons (sigmoid) - 73% accuracy
+Try 1: First layer 110 neurons (relu), second layer 80 neurons(relu), third layer 80 neurons (sigmoid), epochs: 50 - 73% accuracy
 <BR>
-Try 2: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid) - 73% accuracy
+Try 2: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid), epochs: 50 - 73% accuracy
 <BR>
-Try 3: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid) - 73% accuracy
+Try 3: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid), epochs: 50 - 73% accuracy
 <BR>
-Try 4: First layer 110 neurons (tanh), second layer 60 neurons (tanh), third layer 60 neurons (relu) - 73% accuray
+Try 4: First layer 110 neurons (tanh), second layer 60 neurons (tanh), third layer 60 neurons (relu), epochs: 50 - 73% accuray
 <BR>
 <BR>
 ### Results
