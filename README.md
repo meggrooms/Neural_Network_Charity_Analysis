@@ -9,23 +9,23 @@ Alphabet Soup Charity Funding
 
 #### Preprocessing Data
 <BR>
-  <ins>Variables considered the targets for the model</ins>
+<ins>Variables considered the targets for the model</ins>
 <BR>
 <BR>
-Variable(s) considered to be the features for the model
+<ins>Variables considered to be the features for the model</ins>
 <BR>
-• Variables removed from input data as they are neither targets nor features
+<Br>
+<ins>Variables removed from input data as they are neither targets nor features</ins>
 <BR>
 <BR>
   
 #### Compiling, Training, and Evaluating the Model
 <BR>
-• Nuerons, Layers, and activation functions selected for the neural network model & why
+<ins>Nuerons, Layers, and activation functions selected for the neural network model & why</ins>
 <BR>
-There were 108 import features. I used 3 hidden layers as following:
+I used 3 hidden layers as following:
 <BR>
-  
-  
+<BR>
 Layer 1: 60 neurons, activation: tanh
 <BR>  
 Layer 2: 60 neurons, activation: tanh
