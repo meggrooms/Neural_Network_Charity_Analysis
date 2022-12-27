@@ -16,16 +16,21 @@ I used the following methods for the analysis:
 <BR>
 <BR>
 
-#### Preprocessing Data
+### Preprocessing Data
+  <strong>Features of the model:</strong>
 <BR>
-
-Features: 
+APPLICATION_TYPE<BR> 
+AFFILIATION CLASSIFICATION
+<BR>USE_CASE
+<BR>ORGANIZATION
+<BR>STATUS
+<BR>INCOME_AMT
+<BR>SPECIAL_CONSIDERATIONS
+<BR>ASK_AMT
 <BR>
 <BR>
-APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
-<BR>
-<BR>
-Target Variable: IS_SUCCESSFUL, showing that the charity funding was effectively used 
+<strong>Target Variable:</strong> 
+IS_SUCCESSFUL, showing that the charity funding was effectively used 
 <BR>
 <BR>
 Variables Removed: EIN and NAME were determined to be of no use as they will not affect the accuracy of the model
@@ -33,7 +38,7 @@ Variables Removed: EIN and NAME were determined to be of no use as they will not
 <BR>
 
   
-#### Compiling, Training, and Evaluating the Model
+### Compiling, Training, and Evaluating the Model
 
 Nuerons, Layers, and activation functions selected for the neural network model & why
 <BR>
