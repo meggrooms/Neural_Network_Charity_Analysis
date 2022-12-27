@@ -6,7 +6,7 @@ Alphabet Soup Charity Funding is determining which charities to to invest fundin
 <BR>
   
   
-I used the following methods for the analysis:
+<strong>I used the following methods for the analysis:</strong>
 <BR>
 •Data preprocessing to prepare raw data for use
 <BR>
@@ -41,7 +41,7 @@ IS_SUCCESSFUL, showing that the charity funding was effectively used
   
 ### Compiling, Training, and Evaluating the Model
 
-Nuerons, Layers, and activation functions selected for the neural network model to attempt accuracy optimization
+<strong>Nuerons, Layers, and activation functions selected for the neural network model to attempt accuracy optimization</strong>
 <BR>
 <BR>
 Layer 1: 60 neurons, activation: tanh, epochs: 50
@@ -58,10 +58,12 @@ Layer 3: 60 neurons, activation: relu, epochs: 50
 <BR>
 Target performance was 75%, the best I was able to achieve was 73%
 <BR>
-Steps taken to try and increase model performance:
+  <strong>Steps taken to try and increase model performance:</strong>
 <BR>
 <BR>
 Try 1: First layer 110 neurons (relu), second layer 80 neurons(relu), third layer 80 neurons (sigmoid), epochs: 50 - 73% accuracy
+<BR>
+<img src="https://github.com/meggrooms/Neural_Network_Charity_Analysis/blob/main/images/attempt_2.png">
 <BR>
 Try 2: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid), epochs: 50 - 73% accuracy
 <BR>
