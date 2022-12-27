@@ -64,7 +64,7 @@ Target performance was 75%, the best I was able to achieve was 73%
 
 Try 2: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid), epochs: 50 - 73% accuracy
 <BR>
-<img src="https://github.com/meggrooms/Neural_Network_Charity_Analysis/blob/main/images/attempt_2.png">
+<img src="https://github.com/meggrooms/Neural_Network_Charity_Analysis/blob/main/images/2_attempt.png">
 <BR>
   
 Try 3: First layer 110 neurons (tanh), second layer 60 neurons (relu), third layer 60 neurons (sigmoid), epochs: 50 - 73% accuracy
