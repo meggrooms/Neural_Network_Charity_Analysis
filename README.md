@@ -1,11 +1,11 @@
 # Neural Network Charity Analysis
-Alphabet Soup Charity Funding
-<BR>
 
 ### Overview:
-Alphabet Soup Charity Funding is determining which charities to invest in. The purpose of this project is to use deep-learning neural networks, using TensorFlow, to analyze and classify the success of charitable donations.
+Alphabet Soup Charity Funding is determining which charities to to invest funding in. The purpose of this project is to use deep-learning neural networks, using TensorFlow, to analyze and classify the success of charitable donations.
 <br>
 <BR>
+  
+  
 I used the following methods for the analysis:
 <BR>
 •Data preprocessing to prepare raw data for use
@@ -15,6 +15,8 @@ I used the following methods for the analysis:
 • Model optimization to improve the accuracy of the model
 <BR>
 <BR>
+  
+  
 
 ### Preprocessing Data
   <strong>Features of the model:</strong>
@@ -28,12 +30,10 @@ AFFILIATION CLASSIFICATION
 <BR>SPECIAL_CONSIDERATIONS
 <BR>ASK_AMT
 <BR>
-<BR>
+
 <strong>Target Variable:</strong> 
 IS_SUCCESSFUL, showing that the charity funding was effectively used 
 <BR>
-<BR>
-
 <strong>Variables Removed:</strong> EIN and NAME were determined to be of no use as they will not affect the accuracy of the model
 <BR>
 <BR>
